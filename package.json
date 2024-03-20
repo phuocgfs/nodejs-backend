@@ -1,0 +1,27 @@
+{
+  "name": "backend0",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phuocgfs/nodejs-backend.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "Phuocdz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phuocgfs/nodejs-backend/issues"
+  },
+  "homepage": "https://github.com/phuocgfs/nodejs-backend#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
